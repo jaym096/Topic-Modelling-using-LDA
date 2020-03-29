@@ -1,0 +1,13 @@
+The zip file pp4code.zip consists of: 
+3 code file (.py): main.py, supporting_func.py, glm.py
+README.txt, topicwords.csv
+
+The folder contains all the data set.
+P.S.: The code considers that the data folder(20newsgroups) is in the same 
+directory as the code. 
+
+=======================================================================
+To run the code you only use the main.py file
+
+Example: To run the program, you should do the following:
+	 python3 main.py
