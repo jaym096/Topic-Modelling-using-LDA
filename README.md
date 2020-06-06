@@ -6,8 +6,7 @@ In this project I used **Latent Dirichlet Allocation (LDA)** with Gibbs Sampling
 The project consists of 3 code file (.py):\
 main.py, supporting_func.py, glm.py
 
-The folders 20newsgroups and artificial contains all the data set. The code considers that the data folder(20newsgroups) is in the same 
-directory as the code. 
+The folders _20newsgroups_ and _artificial_ contains all the data set. The code considers that the data folder is in the same directory as the code. 
 
 ## HOW TO RUN THE CODE
      1. To run the code you only use the main.py file
