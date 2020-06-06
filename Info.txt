@@ -1,5 +1,7 @@
-The zip file pp4code.zip consists of: 
-3 code file (.py): main.py, supporting_func.py, glm.py
+The project consists of 3 code file (.py): 
+main.py, supporting_func.py, glm.py
+
+and also:
 README.txt, topicwords.csv
 
 The folder contains all the data set.
