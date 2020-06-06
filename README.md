@@ -8,3 +8,8 @@ main.py, supporting_func.py, glm.py
 
 The folders 20newsgroups and artificial contains all the data set. The code considers that the data folder(20newsgroups) is in the same 
 directory as the code. 
+
+## HOW TO RUN THE CODE
+     1. To run the code you only use the main.py file
+     2. To run the program, you should do the following (Example):
+        python3 main.py
