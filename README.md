@@ -8,7 +8,7 @@ In this project I used **Latent Dirichlet Allocation (LDA)** with **Gibbs Sampli
 The project consists of 3 code file (.py):\
 _main.py_, _supporting_func.py_, _glm.py_
 
-The folders _20newsgroups_ and _artificial_ contains all the data set. The code considers that the data folder is in the same directory as the code. 
+The folders _20newsgroups_ and _artificial_ contains all the data required for the project. The code considers that the data folder is in the same directory as the code. 
 
 ## HOW TO RUN THE CODE
      1. To run the code you only use the main.py file
