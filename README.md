@@ -1,5 +1,5 @@
 # Topic-Modelling-using-LDA
-This is an academic project done in the course **CSCI-B55 Machine Learning** at Indiana University.
+This is an academic project done in the course **CSCI-B555 Machine Learning** at Indiana University.
 
 **Tools and Technology used:** Python, NumPy
 
